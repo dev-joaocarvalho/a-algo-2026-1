@@ -1,5 +1,3 @@
-# a-algo-2026-1
-
 ## Sobre os deveres de casa
 
 ### Convenções:
