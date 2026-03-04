@@ -1,4 +1,4 @@
-## Sobre os deveres de casa
+# Sobre os deveres de casa
 
 ### Convenções:
 - Usar o PEP8 para o guia de estilos e estruturação.
