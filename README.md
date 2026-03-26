@@ -8,3 +8,5 @@
 - PascalCase (CapWords) para classes;
 - SCREAMING_SNAKE_CASE para constantes;
 - Bloco de comentários com as convenções de Docstrings (PEP257)
+
+### (comentarios em inglês é recomendado)
